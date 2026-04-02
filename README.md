@@ -3,4 +3,4 @@ Topic:
 ## process scheduling</b>
 ### -**Non preemptive:**-FCFS & LJF
 ### -**Preemptive:**-SRTF,LRTF,Round Robin,Priority Based
-###-Bankers algorithm.
+### -Bankers algorithm.
