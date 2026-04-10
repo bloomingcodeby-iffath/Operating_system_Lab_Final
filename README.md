@@ -4,3 +4,4 @@ Topic:
 ### -**Non preemptive:**-FCFS & LJF
 ### -**Preemptive:**-SRTF,LRTF,Round Robin,Priority Based
 ### -Bankers algorithm.
+### -Linux
